@@ -1,4 +1,7 @@
+
 # Naive Bayes Project
+
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit-App-brightgreen?logo=streamlit&style=for-the-badge)](https://naive-bayes-project.streamlit.app/)
 
 Small demo project for a Naive Bayes classifier using the Iris dataset.
 
@@ -20,6 +23,7 @@ pip install -r requirements.txt
 
 ## Run
 
+
 Start the Streamlit app with:
 
 ```bash
@@ -31,6 +35,16 @@ If you prefer running the inner script directly, you can also run:
 ```bash
 python app.py
 ```
+
+## Live Demo
+
+Visit the deployed app:
+
+https://naive-bayes-project.streamlit.app/
+
+Click the image below to open the live demo:
+
+[![App screenshot](assets/streamlit_screenshot.svg)](https://naive-bayes-project.streamlit.app/)
 
 ## Notes
 
